@@ -16,8 +16,4 @@
 
 ## 🚀 Ζωντανό Demo
 
-[Δείτε το στο GitHub Pages](https://<το-username-sas>.github.io/ai-career-assistant/)
-
----
-
-✅ Ιδανικό project για αρχικό portfolio στον χώρο της Τεχνητής Νοημοσύνης!
+[Δείτε το στο GitHub Pages](https://<OMavrosScarface>.github.io/ai-career-assistant/)
