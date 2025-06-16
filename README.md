@@ -13,7 +13,3 @@
 - HTML5
 - CSS3
 - JavaScript (για μελλοντική επέκταση)
-
-## 🚀 Ζωντανό Demo
-
-[Δείτε το στο GitHub Pages](https://<OMavrosScarface>.github.io/ai-career-assistant/)
