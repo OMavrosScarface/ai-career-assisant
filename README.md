@@ -1,15 +1,16 @@
-# AI Career Assistant 🌐
+AI Career Assistant 🌐
+A simple and responsive web application that showcases roles in the field of Artificial Intelligence. Built using only HTML, CSS, and JavaScript — no backend.
 
-Μια απλή και responsive web εφαρμογή που παρουσιάζει ρόλους στον χώρο της Τεχνητής Νοημοσύνης. Κατασκευασμένη μόνο με HTML, CSS και JavaScript — χωρίς backend.
+🔍 Features
+Responsive design for mobile devices
 
-## 🔍 Λειτουργίες
+Cards with AI role titles and descriptions
 
-- Responsive design για κινητά
-- Κάρτες με τίτλο και περιγραφή ρόλων AI
-- Καθαρό, σύγχρονο design
+Clean, modern design
 
-## 🛠️ Τεχνολογίες
+🛠️ Technologies
+HTML5
 
-- HTML5
-- CSS3
-- JavaScript (για μελλοντική επέκταση)
+CSS3
+
+JavaScript (for future expansion)
